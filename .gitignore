@@ -1,0 +1,27 @@
+# Flutter / Dart
+.dart_tool/
+.packages
+.pub/
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+
+# IDEs
+.idea/
+*.iml
+.vscode/
+
+# OS
+.DS_Store
+
+# Android / iOS local files
+android/local.properties
+android/.gradle/
+android/key.properties
+*.keystore
+*.jks
+ios/Pods/
+
+# Secrets - never commit these
+.env
+*.secret
